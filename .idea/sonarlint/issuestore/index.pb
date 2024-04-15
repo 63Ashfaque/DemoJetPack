@@ -1,0 +1,21 @@
+
+j
+:app/src/main/java/com/ashfaque/demojetpack/MainActivity.kt,c\7\c7ad42f1c62298f29a44f41e159b97399b8b6bd4
+e
+5app/src/main/java/com/ashfaque/demojetpack/Product.kt,8\a\8a12dfa1b5754082b408ece8f3e80fa2f16ecb5e
+D
+app/build.gradle.kts,d\2\d2a4383452aad84a18429a5844d31330a012a9e6
+h
+8app/src/main/java/com/ashfaque/demojetpack/ApiService.kt,1\4\1409db1239306f46a49fbb83f13f52d8dc8f4d6e
+a
+1app/src/main/java/com/ashfaque/demojetpack/api.kt,2\0\20f30d36a3e5af5e65215b674f034c7c26f1b6a4
+n
+>app/src/main/java/com/ashfaque/demojetpack/ProductViewModel.kt,1\c\1c7371eaea6590df21e9ce003b17ad7f9d89d3ac
+h
+8app/src/main/java/com/ashfaque/demojetpack/apiService.kt,8\b\8bbf7e635f8263cfc4b6b0c9fd91d3634bd0a1d7
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+t
+Dapp/src/main/java/com/ashfaque/demojetpack/model/ProductsResponse.kt,4\a\4adb4b2ba21a8a5dc2fae87eea911fa2dc1996ab
+k
+;app/src/main/java/com/ashfaque/demojetpack/model/Product.kt,4\7\472b822d30d87d989028c03318ec9f830633cac1
