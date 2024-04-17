@@ -1,4 +1,4 @@
-package com.ashfaque.demojetpack.model
+package com.ashfaque.demojetpack.product.model
 
 data class Product(
     val brand: String,
